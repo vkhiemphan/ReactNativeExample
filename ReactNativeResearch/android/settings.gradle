@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeResearch'
+
+include ':app'
